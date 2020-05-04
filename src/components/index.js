@@ -6,9 +6,9 @@ import Footer from './footer';
 
 const Index = ({ children }) => (
   <>
-    {/* <Header /> */}
-    <div></div>
-    {/* <Footer /> */}
+    <Header />
+    <div>index</div>
+    <Footer />
   </>
 
 );
